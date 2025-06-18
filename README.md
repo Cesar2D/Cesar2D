@@ -1,13 +1,17 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Quantum_Researcher-512BD4?style=for-the-badge&logo=quantum&logoColor=white">
+  <img src="https://img.shields.io/badge/Paper_Published-008080?style=for-the-badge&logo=academia&logoColor=white">
+</p>
+
 # Hello, I'm Cesar! 👋
-#### Computer Science Student & Research Enthusiast
+#### Computer Science Student & Quantum Computing Researcher
 
 ## 🚀 About Me
-- 🎓 5th semester Computer Science student
+- 🎓 5th semester Computer Science student at PUCMG
 - 🔭 Currently working with: `C`, `Java`, `SQL`, and `LaTeX`
-- 🧪 Authored research paper: "Evolution of Quantum Neural Networks vs Classical Approaches"
-- ❤️ Core passions: Physics, computing science, and processor architecture
-- ⚛️ Quantum computing researcher
-- 📚 Science lover: Physics, algorithms, and low-level computing
+- ⚛️ Quantum computing researcher focusing on QNNs and qudit systems
+- ❤️ Core passions: Quantum physics, processor architecture, and low-level computing
+- 📚 Authored research on quantum-classical comparative frameworks
 - 😄 Pronouns: he/him
 
 ## 🔬 Published Research
@@ -16,14 +20,14 @@
 *Pontifícia Universidade Católica de Minas Gerais*
 
 **Key Contributions:**
-- 🚀 Proposed novel qudit-based Quantum Neural Networks (QNNs) with **92% parameter reduction** vs classical ResNet
-- ⚡ Demonstrated compact multiclass encoding using quantum superposition states
-- 🔍 Developed hybrid quantum-classical framework for NISQ-era devices
-- 🏆 Achieved 93.1% accuracy on MNIST with only 852 parameters (vs 11.2M in ResNet-18)
+- 🚀 Proposed qudit-based QNNs with **92% parameter reduction** vs classical ResNet
+- ⚡ Demonstrated compact multiclass encoding using quantum superposition
+- 🔍 Developed hybrid framework for NISQ-era devices
+- 🏆 Achieved 93.1% accuracy on MNIST with only 852 parameters
 
 ## 🛠 Technical Skills
 ### Languages & Tools
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
@@ -32,13 +36,14 @@
 ![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-512BD4?style=for-the-badge&logo=quantum&logoColor=white)
 ![Computer Architecture](https://img.shields.io/badge/Processor_Architecture-3F51B5?style=for-the-badge&logo=cpu&logoColor=white)
 ![Physics](https://img.shields.io/badge/Physics-009688?style=for-the-badge&logo=science&logoColor=white)
-
-## 📊 GitHub Statistics
-[![Cesar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/SEU-USUARIO)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical&hide=html,css&langs_count=6)](https://github.com/SEU-USUARIO)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](SEU-LINK-ORCID)
+[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](SEU-LINK-RESEARCHGATE)
 
 ## 📫 Contact
-[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/SEU-PERFIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/SEU-ORCID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cesar-d-ascen%C3%A7%C3%A3o-dias-509b51257/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuscesarddd@gmail.com)
+
+## 📊 GitHub Statistics
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)]()
+
