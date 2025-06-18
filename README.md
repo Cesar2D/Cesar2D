@@ -36,14 +36,7 @@
 ![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-512BD4?style=for-the-badge&logo=quantum&logoColor=white)
 ![Computer Architecture](https://img.shields.io/badge/Processor_Architecture-3F51B5?style=for-the-badge&logo=cpu&logoColor=white)
 ![Physics](https://img.shields.io/badge/Physics-009688?style=for-the-badge&logo=science&logoColor=white)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](SEU-LINK-ORCID)
-[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](SEU-LINK-RESEARCHGATE)
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cesar-d-ascen%C3%A7%C3%A3o-dias-509b51257/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuscesarddd@gmail.com)
-
-## 📊 GitHub Statistics
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)]()
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)]()
-
